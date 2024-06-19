@@ -26,7 +26,7 @@ class Homepage extends StatelessWidget {
         title: Text("Flutter Demo"),
       ),
       body: Container(
-        color: Colors.amber[100],
+        color: Colors.white,
       ),
     );
   }
